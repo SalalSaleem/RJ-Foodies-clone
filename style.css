@@ -1,0 +1,142 @@
+.span-text{
+    background: linear-gradient(50deg, #fb3c00, #ffb800);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+    padding-left: 4%;
+}
+.logo-img{
+    width: 20px;
+}
+.deliver{
+    padding-left: 165px!important;
+}
+.deliver i{
+    color: #ffb30e;
+}
+.form{
+    padding-left: 26px!important;
+    width: 207px!important;
+}
+.search i{
+    content: "\f002";
+    position: relative;
+    top: 12px;
+    color: #ffb30e;
+    left: 22px;
+    font-size: 15px;
+    opacity: 0.9;
+}
+.login-section{
+    background: white;
+    font-size: 14px;
+    color: #ffb30e;
+    font-weight: 700;
+    padding: 10px 20px
+}
+.sec-sec{
+    background-color: #FFB30E !important;
+}
+.main{
+    margin-top: 16%!important;
+}
+.main h2{
+    margin-bottom: 26px;
+    font-weight: 900;
+    font-size: 3.29982rem !important;
+    color: white;
+}
+.main h4{
+    font-size: 2.1rem !important;
+    color: #616161 !important;
+}
+.img-sec img{
+    height: 100%;
+    width: 100%;
+}
+.cards{
+    margin-top: 20px;
+}
+.top{
+    height: 246px;
+}
+.cards .top{
+    width: 270px;
+}
+.tags{
+    border-top-right-radius: 11px;
+    padding: 27px 20px;
+    border-bottom-left-radius: 11px;
+    display: inline-block;
+    background-color: #FFB30E !important;
+    position: relative;
+    top: -125px;
+    color: white;
+    font-weight: 700 !important;
+    font-size: 3rem;
+}
+.cards .top img{
+    border-radius: 24px;
+    width: 100%;
+}
+.bottom h4{
+    font-weight: 700;
+    font-size: 1.4rem;
+}
+.bottom h5{
+    display: inline;
+    text-align: center;
+    padding: 5px 5px;
+    color: #f17228;
+    background-color: #fdeadf;
+}
+.third{
+    background-color: #f8eed8;
+    margin-top: 20px;
+}
+.third h5{
+    margin-top: 7px;
+    font-weight: 700;
+}
+.third h4{
+    margin-bottom: 86px ;
+    padding-top: 20px;
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 700 !important;
+    color: #F17228 !important;
+}
+.txt p{
+    font-size: 0.8rem;
+}
+.txt{
+    text-align: center;
+}
+.third .imgs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main_box{
+    display: flex;
+}
+.box1{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.box1 h3{
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+.box1 p{
+    font-size: .9rem;
+}
+.box2 img{
+    height: 100%;
+    width: 100%;
+}
+.imgs-w{
+    margin-top: 20px;
+}
